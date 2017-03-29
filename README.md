@@ -1,5 +1,5 @@
 # Isoduino Mega 640/1280/2560
-
+<img src="isoduino_mega.png" width="600"><br>
 __Author:__ Bei Chen Liu
 
 __Description:__ An isolated Arduino Compatible development board specially designed for robotics operation.
