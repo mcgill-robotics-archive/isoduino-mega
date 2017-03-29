@@ -37,7 +37,8 @@ __Features:__
 - Added back silkscreen
 
 ## 3D Rander:
-<img src="isoduino-mega_lay_3d1.png" width="400">
+<img src="isoduino-mega_lay_3d1.png" width="400"><br>
+<img src="isoduino-mega_lay_3d2.png" width="400">
 
 ## Schematic:
 <img src="isoduino-mega_sch_s1.jpg" width="400"><br>
