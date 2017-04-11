@@ -36,7 +36,7 @@ __Features:__
 - Update components and front silk
 - Added back silkscreen
 
-## 3D Rander:
+## 3D Render:
 <img src="isoduino-mega_lay_3d1.png" width="400"><br>
 <img src="isoduino-mega_lay_3d2.png" width="400">
 
