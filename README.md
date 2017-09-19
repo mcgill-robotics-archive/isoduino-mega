@@ -9,6 +9,8 @@ __Features:__
 * Switching regulator to allow bigger range of voltage input.
 
 ## Changelog:
+### Version 1.4B
+- Fix the resistor value for the current limit for the power mux from 250 Ohm to 1k Ohm
 
 ### Version 1.4
 - Add the ability to sense input voltage level using A0 and/or A8
